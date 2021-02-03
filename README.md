@@ -49,4 +49,10 @@ This table containig places that i recommend people to visit.
 |Vizag| 72| $230|
 |Banglore | 48| $300|
 
+---
+# Quotes
+>“The Best Way To Get Started Is To Quit Talking And Begin Doing.”<br> 
+– *Walt Disney*
 
+>“Don’t Let Yesterday Take Up Too Much Of Today.” <br>
+– *Will Rogers*
