@@ -23,8 +23,16 @@ In india Hyderabad is famous for Chicken Bhiryani. It is my favorite one because
     1. Fill out the information required by your institution
     2. Enter the contact information and the payment information
     3. Click "NEXT" to continue
-    
+
 7. Review and confirm your information
 8. For bank transfer payments: Review your payment instructions and make your payment
 9. For credit card payments: Enter your card details
 10.  For online method: Log in with your credentials to the selected online method
+
+* Flywire Account
+* University Account Details
+* Country code
+* Payment Amount
+* Student Account details
+* Bank details
+ 
