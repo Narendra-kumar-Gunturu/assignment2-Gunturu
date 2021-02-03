@@ -56,3 +56,18 @@ This table containig places that i recommend people to visit.
 
 >“Don’t Let Yesterday Take Up Too Much Of Today.” <br>
 – *Will Rogers*
+
+---
+# BASIC
+>BASIC (Beginners' All-purpose Symbolic Instruction Code) is a family of general-purpose, high-level programming languages whose design philosophy emphasizes ease of use. The original version was designed by John G. Kemeny and Thomas E. Kurtz and released at Dartmouth College in 1964. They wanted to enable students in fields other than science and mathematics to use computers. At the time, nearly all use of computers required writing custom software, which was something only scientists and mathematicians tended to learn.
+
+**https://en.wikipedia.org/wiki/BASIC**
+
+```
+10 LET N=10
+20 FOR I=1 TO N
+30 PRINT "Hello, World!"
+40 NEXT I
+```
+
+**https://en.wikipedia.org/wiki/BASIC**
