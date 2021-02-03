@@ -50,6 +50,16 @@ This table containig places that i recommend people to visit.
 |Banglore | 48| $300|
 
 ---
+# Bonus
+![Guntur](/images/Guntur.jpg)
+
+![Vijayawada](/images/Krishna.jpg) 
+
+![Banglore](/images/Banglore.jpg)
+
+![Vizag](/images/Vizag.jpg)
+
+---
 # Quotes
 >“The Best Way To Get Started Is To Quit Talking And Begin Doing.”<br> 
 – *Walt Disney*
