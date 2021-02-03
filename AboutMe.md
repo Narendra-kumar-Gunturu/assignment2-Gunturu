@@ -7,4 +7,6 @@ until your last breath, only thing is, the more you ask, the more you learn.
 In the past century, there is a persistent technology growth in newer
 dimensions related to computers which we never thought it would exist. 
 
-![Narendra guntur image](GNK.jpeg)
+**[Narendra gunturu](GNK.jpeg)**
+
+
