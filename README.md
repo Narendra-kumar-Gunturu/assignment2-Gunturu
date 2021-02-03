@@ -37,3 +37,16 @@ In india Hyderabad is famous for Chicken Bhiryani. It is my favorite one because
 * Bank details
 
  **[AboutMe](AboutMe.md)**
+
+ ---
+ # Recommended places to visit
+This table containig places that i recommend people to visit.
+
+|Location |Hours |Price|
+|---|---|---:|
+|Gunturu| 48| $200|
+|Vijayawada | 36| $150|
+|Vizag| 72| $230|
+|Banglore | 48| $300|
+
+
