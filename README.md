@@ -51,9 +51,7 @@ This table containig places that i recommend people to visit.
 
 ---
 # Bonus
-![Guntur](/Images/Guntur.jpg)
-
-![Vijayawada](/Images/Krishna.jpg) 
+![Guntur](/Images/Guntur.jpg) 
 
 ![Banglore](/Images/Banglore.jpg)
 
